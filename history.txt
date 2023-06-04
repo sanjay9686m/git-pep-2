@@ -1,0 +1,500 @@
+   14  vagrant init
+   15  vagrant init ubuntu/bionic64
+   16  vagrant up
+   17  vagrant ssh
+   18  vagrant halt
+   19  cd ..
+   20  mkdir cafe
+   21  ls
+   22  cd cafe/
+   23  vagant init geerlingguy/centos7
+   24  vagrant init geerlingguy/centos7
+   25  vim Vagrantfile 
+   26  vim Vagrantfile 
+   27  vim Vagrantfile 
+   28  vim Vagrantfile 
+   29  vagrant up
+   30  vagrant ssh
+   31  pwd
+   32  ls
+   33  vagrant up
+   34  vagrant ssh
+   35  vagrant halt
+   36  history
+   37   cat history
+   38  exit
+   39  cd ..
+   40  cd ..
+   41  cd..
+   42  cd ..
+   43  cd ..
+   44  cd ..
+   45  cd /d
+   46  mkdir vprofile_project
+   47  ls
+   48  cd vprofile_project/
+   49  git clone https://github.com/devopshydclub/vprofile-project.git
+   50  ls
+   51   d vprofile-project/
+   52  ls
+   53   cd vprofile-project/
+   54  ls
+   55   ls
+   56  git checkout local-setup
+   57  ls
+   58  cd vagrant/
+   59  ls
+   60  cd Manual_provisioning
+   61  ls
+   62  cat Vagrantfile 
+   63  clear
+   64  [200~$ ager
+   65  ~vagrant plugin install vagrant-hostmanager
+   66  vagrant plugin install vagrant-hostmanager
+   67  vagrant up
+   68  vagrant up
+   69  exit
+   70  cd d
+   71  cd /d
+   72  ls
+   73   rm -rf vprofile_project/
+   74  git init
+   75  git clone https://github.com/sanjay9686m/my-git-repo.git
+   76  git pull
+   77  ls
+   78  cd my-git-repo/
+   79  ls
+   80  vi README.md 
+   81  clear
+   82  git add .
+   83  git commit "test 1"
+   84  git commit -m "test 1"
+   85  git add .
+   86  git add .
+   87  git push
+   88  exit
+   89  git init
+   90  git pull
+   91  git clone https://github.com/sanjay9686m/my-git-repo.git
+   92  exit
+   93  git log
+   94  clear
+   95  exit
+   96  [200~
+   97  echo "# git@github.com:sanjay9686m/TEST-0001-REPO-30-5-23.git" >> README.md
+   98  git init 
+   99  git add README.md
+  100  git commit -m "first commit"
+  101  git config --global user.name "sanjay"
+  102   git config --global user.email "sanjaysaraswathi9686@gmail.com.com"
+  103  git commit -m "first commit"
+  104  git branch -M main
+  105  git remote add origin git@github.com:sanjay9686m/TEST-0001-REPO-30-5-23.git
+  106  git push -u origin main
+  107  git push -u origin main
+  108  git push -u origin main
+  109  exit
+  110  github
+  111  echo "# git@github.com:sanjay9686m/TEST-0001-REPO-30-5-23.git" >> README.md
+  112  git init
+  113  git add README.md
+  114  git commit -m "first commit" 
+  115  git config --global user.name "sanjay"
+  116  git config --global user.email "sanjaysaraswathi9686@gmail.com.com"
+  117  clear
+  118  git branch -M main
+  119  git remote add origin git@github.com:sanjay9686m/TEST-0001-REPO-30-5-23.git
+  120  git push -u origin main
+  121  git push
+  122  git push -u origin main
+  123  mkdir test001
+  124  cd test001/
+  125  echo "# test001" >> README.md
+  126  git init
+  127  git add README.md
+  128  git commit -m "first commit"
+  129  git config --global user.name "sanjay"
+  130  git config --global user.email "sanjaysaraswathi9686@gmail.com.com"
+  131  git branch -M main
+  132  git remote add origin git@github.com:sanjay9686m/TEST-0001-REPO-30-5-23.git
+  133  git push -u origin main
+  134  git push -u origin main
+  135  git push -u origin main
+  136  ssh-keygen -t ed25519 -C "sanjaysaraswathi9686@gmail.com"
+  137  git push -u origin main
+  138  git push 
+  139  git push --set-upstream origin main
+  140  echo "# test001" >> README.md
+  141  git init
+  142  git add README.md
+  143  git commit -m "first commit"
+  144   git config --global user.name "sanjay"
+  145   git config --global user.email "sanjaysaraswathi9686@gmail.com.com"
+  146  git commit -m "first commit"
+  147  git branch -M main
+  148  git remote add origin https://github.com/sanjay9686m/test001.git
+  149  git push -u origin main
+  150   vi mytest.txt
+  151  git add .
+  152  git commit -m "1 st commit"
+  153  git push
+  154  EXIT
+  155  exit
+  156  git pull
+  157  ls
+  158  vi mytest.txt 
+  159  git add .
+  160  git commit -m " dev 12 st commit"
+  161  git commit -m " dev 1-2nd commit"
+  162  git push
+  163  exit
+  164  git clone https://github.com/sanjay9686m/test001.git
+  165  ls
+  166  vi test001/
+  167  ls
+  168  cd test001/
+  169  ls
+  170  vi mytest.txt 
+  171  git add .
+  172  git commit - m "dev 2 commit 1"
+  173  git commit -m "dev 2 commit 1"
+  174  git push
+  175  exit
+  176  git pull
+  177  ld
+  178  ls
+  179  vi mytest.txt 
+  180  vi mytest.txt 
+  181  ls
+  182  git add .
+  183  git commit -m "dev 2 commit 2"
+  184  git push
+  185  exit
+  186  exit
+  187  ls
+  188  cat vi
+  189  cat mytest.txt 
+  190  git log
+  191  vi mytest.txt 
+  192  vi mytest.txt 
+  193  vi mytest.txt 
+  194  git add .
+  195  git commit -m "1 dev 4 commit"
+  196  git push
+  197  git add .
+  198  git commit -m "1 dev 4 commit"
+  199  git push
+  200  git init
+  201  git add README.md
+  202  git commit -m "first commit"
+  203  git branch -M main
+  204  git remote add origin https://github.com/sanjay9686m/test001.git
+  205  git push -u origin main
+  206  git pull
+  207  ls
+  208   cat mytest.txt 
+  209  vi mytest.txt 
+  210  git add .
+  211  git commit
+  212  n
+  213  git commit -m "dev 1 3 commit"
+  214  git push
+  215  exit
+  216  exit
+  217  ls
+  218  git pull
+  219  vi mytest.txt 
+  220  git add .
+  221  git commit -m "dev 1 3 commit"
+  222  git push
+  223  exit
+  224  git checkout -b UAT
+  225   l
+  226  ls
+  227   add .
+  228  git add .
+  229  ls
+  230  git checkout -b UAT
+  231  touch myUAT
+  232  ls
+  233  git add .
+  234  git commit -m "dev 1 3 UAT commit"
+  235  git push
+  236  git push -u origin UAT
+  237  touch myUAT
+  238  git add .
+  239  git commit -m "dev 1 3 UAT commit"
+  240  git push -u origin UAT
+  241  git checkout -b SIT
+  242  touch mySIT
+  243  git add .
+  244  git commit -m "dev 1 3 SIT commit"
+  245  git push -u origin SIT
+  246  CLEAR
+  247  git checkout -b sprintone
+  248  touch mysprintonefile
+  249  git add .
+  250  git commit - m "my sprint file"
+  251  git commit -m "my sprint file"
+  252  git push -u origin sprintone
+  253  git checkout SIT
+  254  git checkout -b sprinttwo
+  255  touch mysprinttwofile
+  256  git add .
+  257  git commit - m "my sprinttwo file"
+  258  git commit -m "my sprinttwo file"
+  259  git push -u origin sprintwo
+  260  git push -u origin sprinttwo
+  261  clear
+  262  history
+  263  """ to creat a sprate folder or a seprate repository we have to follow above the line """
+  264  """ to creat a sprate folder or a seprate repository we have to follow above the line """
+  265  history
+  266  clear
+  267  ckeckout  SIT
+  268  git ckeckout  SIT
+  269  git ckeckout SIT
+  270  git ckeckout SIT
+  271  git checkout SIT
+  272  git merge sprinytone
+  273  git merge sprintone
+  274  git merge sprinttwo
+  275  git merge sprinttwo
+  276  git merge sprintone
+  277  git merge sprinttwo
+  278  history
+  279  git merge sprinttwo
+  280  git merge sprintTwo
+  281  git merge sprinttwo
+  282  git merge sprinttwo
+  283  git ckeckout SIT
+  284  git merge sprinttwo
+  285  git push
+  286  git push -u origin SIT
+  287  git ckeckout uat
+  288  git ckeckout UAT
+  289  git ckeckout UAT
+  290  git checkout SIT
+  291  git merge sprinttwo
+  292  git merge sprintone
+  293  git merge sprinttwo
+  294  git checkout UAT
+  295  git merge SIT
+  296  git push -u origin UAT
+  297  git checkout MAIN
+  298  git merge UAT
+  299  git push -u origin MAIN
+  300  git checkout main
+  301  git merge UAT
+  302  git push -u origin main
+  303  history
+  304  clear
+  305  exit
+  306  history
+  307  clear
+  308  exit
+  309  git log
+  310  ls
+  311  git catfile  
+  312  git catfile  -s
+  313  git cat-file -t  
+  314  git cat-file -t  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  315  git cat-file -e  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  316  git cat-file -s  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  317  git cat-file -t  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  318  git cat-file -p  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  319  git cat-file -t  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  320  git cat-file -t  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  321  git cat-file -p  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  322  git cat-file -p  48f1ff3b0778580cf37fec271b9a25c71c1cc85e
+  323  cleare
+  324  clear
+  325  ls
+  326  vi mystashtest_file1
+  327  git add .
+  328  git commit -m "mystashtest1"
+  329  ls
+  330  vi mystashtest_file1 
+  331  git add .
+  332  git commit -m "mystashtest1_1"
+  333  ls
+  334  git stash
+  335  git add .
+  336  git commit -m "mystashtest1_1"
+  337  git stash
+  338  vi mystashtest_file1 
+  339  git add .
+  340  git stash
+  341  vi mystashtest_file1 
+  342  git add .
+  343  git commit -m "mystashmanager wrk completed1"
+  344  git push 
+  345  git push
+  346  exit
+  347   is
+  348  ls
+  349  pwd
+  350  vi mystashtest_file1 
+  351  git stash
+  352  vi mystashtest_file1 ]
+  353  git stash
+  354  vi mystashtest_file1 ]
+  355  git add .
+  356  git commit "mmanager work"
+  357  git commit -m "mmanager work"
+  358  git push
+  359  git stash apply
+  360  vi mystashtest_file1 ]
+  361  exit
+  362  ls
+  363  vi mytest.txt 
+  364  ls
+  365  vi mytest.txt 
+  366  vi mytest.txt 
+  367  git add .
+  368  git commit -m "tesr for push"
+  369  git push
+  370   git log
+  371  git checkout -m sprintone  
+  372  git checkout -b sprintone  
+  373  touch mysprintonefine
+  374  git add .
+  375  git commit -m "sprint check cherry pick"
+  376  git push
+  377  git push sprintone
+  378  git push -u orgin sprintone
+  379  git push -u orgin sprintone
+  380  git push -u orgin sprintone
+  381  git add .
+  382  git commit -m "sprint check cherry pick"
+  383  git push -u orgin sprintone.
+  384  git push -u orgin sprintone
+  385  git push
+  386  git checkout main 
+  387  gitpush
+  388  git push
+  389  git log
+  390  git clear
+  391  git clear
+  392  clear
+  393  exit
+  394  echo "# test002" >> README.md
+  395  git init
+  396  git add README.md
+  397  git commit -m "first commit"
+  398  git branch -M main
+  399  git remote add origin https://github.com/sanjay9686m/test002.git
+  400  git push -u origin main
+  401  git init
+  402  git add README.md
+  403  git commit -m "first commit"
+  404  git config --global user.name "sanjay"
+  405  git config --global user.email "sanjaysaraswathi9686@gmail.com.com"
+  406  git commit -m "first commit"
+  407  git branch -M main
+  408  git remote add origin https://github.com/sanjay9686m/test002.git
+  409  git push -u origin main
+  410   touch myfileone myfiletwo
+  411  clear
+  412  vi myfileone
+  413  vi myfiletwo
+  414  git stutes
+  415  git status
+  416  git add .
+  417  git log
+  418  git commit -m "test 2nd commit
+  419  "
+  420  git push
+  421  vi myfileone 
+  422  vi myfiletwo
+  423  git stutes
+  424  git status
+  425   git restore myfileone
+  426  git log
+  427  git status
+  428   git restore myfileone 
+  429  git status
+  430  q
+  431  git add .
+  432  git status
+  433  git restore --staged myfiletwo
+  434  git status
+  435  git restore myfiletwo 
+  436  git status
+  437  vi myfileone
+  438  vi myfiletwo
+  439  git status
+  440  git add .
+  441  git status
+  442  git commit -m "2nd commit"
+  443  git status
+  444  git log
+  445  git log --oneline 
+  446  git reset HEAD~1
+  447  git log --oneline 
+  448  git status
+  449  git status
+  450  git add .
+  451  git commit -m "3nd commit"
+  452  git log --oneline 
+  453  git reset HEAD~1
+  454  git status
+  455  git log --oneline 
+  456  git add .
+  457  git commit -m "3nd commit"
+  458  git log --oneline 
+  459  git reset --soft
+  460  git status
+  461  git reset --soft HEAD~1
+  462  git status
+  463  git log --oneline 
+  464  git add .
+  465  git commit -m "3nd commit"
+  466  git status
+  467  git log --oneline 
+  468  git reset --hard HEAD~1
+  469  git log --oneline 
+  470  git status
+  471  vi myfileone 
+  472  clea
+  473  clear
+  474  touch myfile 3
+  475  ls
+  476  rm 3
+  477  ls
+  478  vi myfile
+  479  git add .
+  480  git commit -m "commit 3 rd"
+  481  git status
+  482  touch myfile4
+  483  git add .
+  484  git commit -m "commit 4 rd"
+  485  git status
+  486  touch myfile5
+  487  git add .
+  488  git commit -m "commit 5 rd"
+  489  git push
+  490  ls
+  491  git log --oneline 
+  492  git revart 9556bfc
+  493  git revert 9556bfc
+  494  don a small mistake so deleting the file
+  495  :wq
+  496  :wq!
+  497  git log --oneline 
+  498  git log 
+  499  git push
+  500  exit
+  501  ls
+  502  git checkout -b b_branch
+  503  vi b_one
+  504  git add .
+  505  git commit -m "1st commit for test "
+  506  git push -u origin b_branch 
+  507  git status
+  508  git log
+  509  git checkout main 
+  510  git mergeb
+  511  git merge b_branch 
+  512  history 
+  513  history > history.txt
